@@ -36,5 +36,16 @@
       "email": "manaswinimula@gmail.com",
       "password": "Minnu@123"
     }
+  ],
+  "appointments":[
+    {
+      "name": "Manaswini Mula",
+      "email": "charan@example.com",
+      "phone": "1234567890",
+      "date": "2024-12-25",
+      "time": "15:30",
+      "message": "Looking forward!"
+    }
+    
   ]
 }
