@@ -37,14 +37,9 @@
       "password": "Minnu@123"
     }
   ],
-  "appointments":[
+  "wishlist":[
     {
-      "name": "Manaswini Mula",
-      "email": "charan@example.com",
-      "phone": "1234567890",
-      "date": "2024-12-25",
-      "time": "15:30",
-      "message": "Looking forward!"
+      
     }
     
   ]
