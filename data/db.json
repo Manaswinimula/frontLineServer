@@ -30,17 +30,17 @@
       "password": "Minnu@123"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Manaswini Mula",
       "phone": "06303489467",
       "email": "manaswinimula@gmail.com",
       "password": "Minnu@123"
     }
   ],
-  "wishlist":[
-    {
-      
-    }
-    
+  "wishlist": [
+    { "id": 1, "userId": "1", "title": "Item 1", "imageSrc": "image1.jpg" },
+    { "id": 2, "userId": "2", "title": "Item 2", "imageSrc": "image2.jpg" }
   ]
+    
+  
 }
