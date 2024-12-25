@@ -13,36 +13,21 @@
       "name": "Manaswini Mula",
       "phone": "6303489467",
       "email": "ac@gmail.com",
-      "password": "Minnu@123",
-      "wishlist": [
-        { "id": 1, "userId": "1" },
-        { "id": 2, "userId": "2"},
-        { "id": 3, "userId": "3" }
-      ]
+      "password": "Minnu@123"
     },
     {
       "id": "4",
       "name": "manas",
       "phone": "9812672389",
       "email": "a@gmail.com",
-      "password": "Minnu@123",
-      "wishlist": [
-        { "id": 1, "userId": "1" },
-        { "id": 2, "userId": "2"},
-        { "id": 3, "userId": "3" }
-      ]
+      "password": "Minnu@123"
     },
     {
       "id": "5",
       "name": "manass",
       "phone": "1231436536",
       "email": "ab@gmail.com",
-      "password": "Minnu@123",
-      "wishlist": [
-        { "id": 1, "userId": "1" },
-        { "id": 2, "userId": "2"},
-        { "id": 3, "userId": "3" }
-      ]
+      "password": "Minnu@123"
     },
     {
       "id": "6",
@@ -50,11 +35,7 @@
       "phone": "06303489467",
       "email": "manaswinimula@gmail.com",
       "password": "Minnu@123",
-      "wishlist": [
-        { "id": 1, "userId": "1" },
-        { "id": 2, "userId": "2"},
-        { "id": 3, "userId": "3" }
-      ]
+      "wishlist": []
     }
   ]
     
